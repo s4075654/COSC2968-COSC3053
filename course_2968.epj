@@ -2,12 +2,12 @@
   "header": {
     "comment": "eric project file for project course_2968",
     "copyright": "Copyright (C) 2024 s4075654, s4075654@rmit.edu.vn",
-    "saved": "2024-07-17, 19:54:03"
+    "saved": "2024-08-03, 17:37:08"
   },
   "project": {
     "AUTHOR": "s4075654",
     "CHECKERSPARMS": {},
-    "DESCRIPTION": "COSC2968",
+    "DESCRIPTION": "COSC2968-COSC3053",
     "DOCSTRING": "",
     "DOCUMENTATIONPARMS": {},
     "EMAIL": "s4075654@rmit.edu.vn",
@@ -54,6 +54,7 @@
     },
     "MIXEDLANGUAGE": false,
     "OTHERS": [
+      ".gitignore",
       "course_2968.epj"
     ],
     "OTHERTOOLSPARMS": {},
@@ -76,7 +77,9 @@
       "week_03/4.py",
       "week_03/5.py",
       "week_03/6.py",
-      "week_03/7.py"
+      "week_03/7.py",
+      "week_04/Astar_maze.py",
+      "week_04/exercise.py"
     ],
     "SOURCESDIR": "",
     "SPELLEXCLUDES": "",
@@ -93,8 +96,45 @@
       "PackagesRoot": "",
       "RcSuffix": ""
     },
-    "VCS": "None",
-    "VCSOPTIONS": {},
+    "VCS": "Git",
+    "VCSOPTIONS": {
+      "add": [
+        ""
+      ],
+      "checkout": [
+        ""
+      ],
+      "commit": [
+        ""
+      ],
+      "diff": [
+        ""
+      ],
+      "export": [
+        ""
+      ],
+      "global": [
+        ""
+      ],
+      "history": [
+        ""
+      ],
+      "log": [
+        ""
+      ],
+      "remove": [
+        ""
+      ],
+      "status": [
+        ""
+      ],
+      "tag": [
+        ""
+      ],
+      "update": [
+        ""
+      ]
+    },
     "VCSOTHERDATA": {},
     "VERSION": "0.1"
   }

@@ -2,7 +2,7 @@
   "header": {
     "comment": "eric session file for project course_2968",
     "warning": "This file was generated automatically, do not edit.",
-    "saved": "2024-07-17, 19:54:02"
+    "saved": "2024-08-03, 17:32:25"
   },
   "MultiProject": "",
   "Project": "",
@@ -39,11 +39,7 @@
       "Name": "sources",
       "ExpandedItems": [
         "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03",
-        "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\1.py",
-        "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\2.py",
-        "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\3.py",
-        "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\4.py",
-        "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\__init__.py"
+        "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_04"
       ]
     }
   ]
