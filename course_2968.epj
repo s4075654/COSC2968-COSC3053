@@ -2,7 +2,7 @@
   "header": {
     "comment": "eric project file for project course_2968",
     "copyright": "Copyright (C) 2024 s4075654, s4075654@rmit.edu.vn",
-    "saved": "2024-08-03, 17:37:08"
+    "saved": "2024-08-24, 19:15:43"
   },
   "project": {
     "AUTHOR": "s4075654",
@@ -79,7 +79,8 @@
       "week_03/6.py",
       "week_03/7.py",
       "week_04/Astar_maze.py",
-      "week_04/exercise.py"
+      "week_04/exercise.py",
+      "week_08/end_to_end_ml_project.py"
     ],
     "SOURCESDIR": "",
     "SPELLEXCLUDES": "",
