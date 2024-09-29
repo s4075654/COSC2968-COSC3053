@@ -1,18 +1,18 @@
 {
   "header": {
-    "comment": "eric project file for project course_2968",
+    "comment": "eric project file for project 5",
     "copyright": "Copyright (C) 2024 s4075654, s4075654@rmit.edu.vn",
-    "saved": "2024-08-24, 19:15:43"
+    "saved": "2024-09-29, 23:29:38"
   },
   "project": {
     "AUTHOR": "s4075654",
     "CHECKERSPARMS": {},
-    "DESCRIPTION": "COSC2968-COSC3053",
-    "DOCSTRING": "",
+    "DESCRIPTION": "",
+    "DOCSTRING": "ericdoc",
     "DOCUMENTATIONPARMS": {},
     "EMAIL": "s4075654@rmit.edu.vn",
     "EMBEDDED_VENV": false,
-    "EOL": 0,
+    "EOL": 2,
     "FILETYPES": {
       "*.cfg": "OTHERS",
       "*.epj": "OTHERS",
@@ -35,7 +35,7 @@
       "makefile": "OTHERS"
     },
     "FORMS": [],
-    "HASH": "f9774440d4cbf7d0e6b84b7ccddc3473ece631e9",
+    "HASH": "2c353af3ebf58e339125b87cbc4b58250049a36f",
     "IDLPARAMS": {
       "DefinedNames": [],
       "IncludeDirs": [],
@@ -43,7 +43,7 @@
     },
     "LEXERASSOCS": {},
     "LICENSE": "",
-    "MAINSCRIPT": "",
+    "MAINSCRIPT": "__init__.py",
     "MAKEPARAMS": {
       "MakeEnabled": false,
       "MakeExecutable": "",
@@ -53,10 +53,7 @@
       "MakeTestOnly": true
     },
     "MIXEDLANGUAGE": false,
-    "OTHERS": [
-      ".gitignore",
-      "course_2968.epj"
-    ],
+    "OTHERS": [],
     "OTHERTOOLSPARMS": {},
     "PACKAGERSPARMS": {},
     "PROGLANGUAGE": "Python3",
@@ -70,19 +67,9 @@
     },
     "RESOURCES": [],
     "SOURCES": [
-      "__init__.py",
-      "week_03/1.py",
-      "week_03/2.py",
-      "week_03/3.py",
-      "week_03/4.py",
-      "week_03/5.py",
-      "week_03/6.py",
-      "week_03/7.py",
-      "week_04/Astar_maze.py",
-      "week_04/exercise.py",
-      "week_08/end_to_end_ml_project.py"
+      "__init__.py"
     ],
-    "SOURCESDIR": "",
+    "SOURCESDIR": ".",
     "SPELLEXCLUDES": "",
     "SPELLLANGUAGE": "en_US",
     "SPELLWORDS": "",
@@ -97,45 +84,8 @@
       "PackagesRoot": "",
       "RcSuffix": ""
     },
-    "VCS": "Git",
-    "VCSOPTIONS": {
-      "add": [
-        ""
-      ],
-      "checkout": [
-        ""
-      ],
-      "commit": [
-        ""
-      ],
-      "diff": [
-        ""
-      ],
-      "export": [
-        ""
-      ],
-      "global": [
-        ""
-      ],
-      "history": [
-        ""
-      ],
-      "log": [
-        ""
-      ],
-      "remove": [
-        ""
-      ],
-      "status": [
-        ""
-      ],
-      "tag": [
-        ""
-      ],
-      "update": [
-        ""
-      ]
-    },
+    "VCS": "None",
+    "VCSOPTIONS": {},
     "VCSOTHERDATA": {},
     "VERSION": "0.1"
   }

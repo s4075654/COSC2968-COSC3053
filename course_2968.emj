@@ -1,0 +1,72 @@
+{
+  "header": {
+    "comment": "eric multi project file for multi project course_2968",
+    "saved": "2024-09-29, 23:33:09"
+  },
+  "description": "Course 2968",
+  "projects": [
+    {
+      "name": "1",
+      "file": "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\1\\1.epj",
+      "uid": "{92e52b83-710d-4b6e-8d44-d5d1a602f2be}",
+      "main": false,
+      "description": "",
+      "category": "Week 03",
+      "removed": false
+    },
+    {
+      "name": "2",
+      "file": "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\2\\2.epj",
+      "uid": "{a67b6570-f313-4e6d-9120-46f81ddb57ef}",
+      "main": false,
+      "description": "",
+      "category": "Week 03",
+      "removed": false
+    },
+    {
+      "name": "3",
+      "file": "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\3\\3.epj",
+      "uid": "{362dc33d-7000-4085-b599-eb6644cd4a0f}",
+      "main": false,
+      "description": "",
+      "category": "Week 03",
+      "removed": false
+    },
+    {
+      "name": "4",
+      "file": "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\4\\4.epj",
+      "uid": "{b2a4d3c6-4dc8-4443-90b0-a2c073ed7256}",
+      "main": false,
+      "description": "",
+      "category": "Week 03",
+      "removed": false
+    },
+    {
+      "name": "5",
+      "file": "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\5\\5.epj",
+      "uid": "{3bcb6a91-51f8-4151-9e79-181eeaf1d5d9}",
+      "main": false,
+      "description": "",
+      "category": "Week 03",
+      "removed": false
+    },
+    {
+      "name": "6",
+      "file": "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\6\\6.epj",
+      "uid": "{7787f951-15f3-450b-8926-3bff57409194}",
+      "main": false,
+      "description": "",
+      "category": "Week 03",
+      "removed": false
+    },
+    {
+      "name": "7",
+      "file": "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_03\\7\\7.epj",
+      "uid": "{ada0a0e4-9008-4885-b543-1d59fc388c43}",
+      "main": false,
+      "description": "",
+      "category": "Week 03",
+      "removed": false
+    }
+  ]
+}
