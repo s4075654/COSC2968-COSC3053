@@ -1,16 +1,16 @@
 {
   "header": {
-    "comment": "eric project file for project 2",
-    "copyright": "Copyright (C) 2024 s4075654, s4075654@rmit.edu.vn",
-    "saved": "2024-09-30, 00:25:03"
+    "comment": "eric project file for project Week 08",
+    "copyright": "Copyright (C) 2024 , ",
+    "saved": "2024-09-30, 00:37:47"
   },
   "project": {
-    "AUTHOR": "s4075654",
+    "AUTHOR": "",
     "CHECKERSPARMS": {},
     "DESCRIPTION": "",
     "DOCSTRING": "ericdoc",
     "DOCUMENTATIONPARMS": {},
-    "EMAIL": "s4075654@rmit.edu.vn",
+    "EMAIL": "",
     "EMBEDDED_VENV": false,
     "EOL": 2,
     "FILETYPES": {
@@ -35,7 +35,7 @@
       "makefile": "OTHERS"
     },
     "FORMS": [],
-    "HASH": "7bdd0e10bf37c2a1d20edc410eaf6fa67928080c",
+    "HASH": "edf2e291d4fc5cd4db876ca11c0be55ee7d5f2a7",
     "IDLPARAMS": {
       "DefinedNames": [],
       "IncludeDirs": [],
@@ -43,7 +43,7 @@
     },
     "LEXERASSOCS": {},
     "LICENSE": "",
-    "MAINSCRIPT": "__init__.py",
+    "MAINSCRIPT": "",
     "MAKEPARAMS": {
       "MakeEnabled": false,
       "MakeExecutable": "",
@@ -53,9 +53,7 @@
       "MakeTestOnly": true
     },
     "MIXEDLANGUAGE": false,
-    "OTHERS": [
-      "2.epj"
-    ],
+    "OTHERS": [],
     "OTHERTOOLSPARMS": {},
     "PACKAGERSPARMS": {},
     "PROGLANGUAGE": "Python3",
@@ -69,7 +67,8 @@
     },
     "RESOURCES": [],
     "SOURCES": [
-      "__init__.py"
+      "__init__.py",
+      "end_to_end_ml_project.py"
     ],
     "SOURCESDIR": ".",
     "SPELLEXCLUDES": "",

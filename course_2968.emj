@@ -1,7 +1,7 @@
 {
   "header": {
     "comment": "eric multi project file for multi project course_2968",
-    "saved": "2024-09-29, 23:33:09"
+    "saved": "2024-09-30, 00:37:42"
   },
   "description": "Course 2968",
   "projects": [
@@ -66,6 +66,24 @@
       "main": false,
       "description": "",
       "category": "Week 03",
+      "removed": false
+    },
+    {
+      "name": "Week 04",
+      "file": "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_04\\week_04.epj",
+      "uid": "{0d472c92-de60-4301-8176-371d14f0d220}",
+      "main": false,
+      "description": "",
+      "category": "Week 04",
+      "removed": false
+    },
+    {
+      "name": "Week 08",
+      "file": "C:\\Users\\Vo Huy Chu\\Programming\\Python\\course_2968\\week_08\\Week 08.epj",
+      "uid": "{39d60c77-54f1-40da-a04d-c45500614f1e}",
+      "main": false,
+      "description": "",
+      "category": "Week 08",
       "removed": false
     }
   ]
