@@ -16,12 +16,12 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-    repositories:
+    registries:
       - github-octocat
 
   - package-ecosystem: "gitsubmodule"
     directory: "/"
     schedule:
       interval: "daily"
-    repositories:
+    registries:
       - github-octocat
